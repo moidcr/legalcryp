@@ -1,0 +1,18 @@
+{
+    "metronicGroupActions": "_TOTAL_ items seleccionados:  ",
+    "metronicAjaxRequestGeneralError": "La solicitud no se pudo completar. Vuelva a intentarlo.",
+
+    "lengthMenu": "<span class='seperator'>|</span>Ver _MENU_ items",
+    "info": "<span class='seperator'>|</span>Total de registros _TOTAL_",
+    "infoEmpty": "No hay items para mostrar",
+    "emptyTable": "No hay información para la tabla",
+    "zeroRecords": "No hay coincidencias encontradas",
+    "paginate": {
+        "previous": "Atras",
+        "next": "Adelante",
+        "last": "Último",
+        "first": "Primero",
+        "page": "Página",
+        "pageOf": "de"
+    }
+}
